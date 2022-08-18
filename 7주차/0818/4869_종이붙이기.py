@@ -13,7 +13,7 @@ for i in range(caseNum):
                 firCount *= (tenPaperNum + 1 - k)
                 secCount *= (maxSquarePaperNum - k)
 
-            totalCount += (firCount // secCount)*(2**(maxSquarePaperNum+1))
+            totalCount += (firCount // secCount)*(2**(maxSquarePaperNum))
         else:
             firCount = 1
             secCount = 1
@@ -21,6 +21,6 @@ for i in range(caseNum):
                 firCount *= (maxSquarePaperNum + 1 - k)
                 secCount *= (tenPaperNum - k)
 
-            totalCount += (firCount // secCount)*(2**(maxSquarePaperNum+1))
+            totalCount += (firCount // secCount)*(2**(maxSquarePaperNum))
         maxSquarePaperNum -= 1
     print(totalCount)
