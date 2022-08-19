@@ -5,9 +5,9 @@ for i in range(roundNum):
     aList = list(map(int, input().split()))
     bList = list(map(int, input().split()))
     winner = ""
-    for p in range(1, aList[0]):
+    for p in range(1, aList[0]+1):
         ACard[aList[p] - 1] += 1
-    for p in range(1, bList[0]):
+    for p in range(1, bList[0]+1):
         BCard[bList[p] - 1] += 1
     if ACard[3] != BCard[3]:
         if ACard[3] > BCard[3]:
