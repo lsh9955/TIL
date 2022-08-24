@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ad9fde6-d7df-42ab-9177-8d280f17e555" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8주차/0824/practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8주차/0824/practice2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8주차/0824/practice3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8주차/0824/swea_1225_암호생성기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8주차/0824/practice3.py" beforeDir="false" afterPath="$PROJECT_DIR$/8주차/0824/practice3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8주차/0824/swea_1225_암호생성기.py" beforeDir="false" afterPath="$PROJECT_DIR$/8주차/0824/swea_1225_암호생성기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
