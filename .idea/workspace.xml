@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ad9fde6-d7df-42ab-9177-8d280f17e555" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8주차/0824/practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8주차/0824/practice2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8주차/0824/practice3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8주차/0824/swea_1225_암호생성기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8주차/0825/1220.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8주차/0825/1226.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8주차/0825/pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8주차/0825/swea_2806.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8주차/0825/swea_5097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8주차/0825/swea_5099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8주차/0825/swea_5102.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8주차/0825/swea_5105.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
