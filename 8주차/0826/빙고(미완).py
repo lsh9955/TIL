@@ -21,10 +21,9 @@ for a in range(5):
             ldList += 1
         colList[bingDict[checkList[a][b]][0]] += 1
         rowList[bingDict[checkList[a][b]][1]] += 1
-        row=1 if ruList ==5 else 0
-        column = 1 if ldList ==5 else 0
-        if colList.count(5)+rowList.count(5)+row+column==3:
-            print(a*5+b+1)
-            flag=False
+        row = 1 if ruList == 5 else 0
+        column = 1 if ldList == 5 else 0
+        if colList.count(5) + rowList.count(5) + row + column >= 3:
+            print(a * 5 + b + 1)
+            flag = False
             break
-
