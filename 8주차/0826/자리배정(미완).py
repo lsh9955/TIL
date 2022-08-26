@@ -60,7 +60,7 @@ else:
         # for a in range(C - count*2-2):
         #     if nowPerson == K:
         #         break
-        #     nowPerson += 1
+        #     nowPerson += 1s
         #     nowIdx[0] -= 1
 
         # for a in range(R  - count*2-2):
