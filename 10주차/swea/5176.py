@@ -3,7 +3,7 @@ for k in range(T):
     N = int(input())
     targetNum = N
     addNum = []
-    for q in range(10):
+    for q in range(11):                     #1024 이하의 개수를 지니므로 
         if 2**q<targetNum:
             addNum.append(2**q)
             targetNum-=2**q
