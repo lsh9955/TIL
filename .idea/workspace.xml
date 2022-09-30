@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ad9fde6-d7df-42ab-9177-8d280f17e555" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/12주차/1026_보물.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12주차/1347_미로 만들기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12주차/5249_최소신장트리.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12주차/다익스트라.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12주차/젤다 옷 애가 입은 녹색지.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12주차/5248_그룹 나누기.py" beforeDir="false" afterPath="$PROJECT_DIR$/12주차/5248_그룹 나누기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
