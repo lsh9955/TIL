@@ -17,6 +17,7 @@ T = int(input())
 for k in range(1,T+1):
     V,E = list(map(int,input().split()))
     edges = [list(map(int,input().split())) for _ in range(E)]
+    #최소값을 갖는 것으로 정렬
     edges.sort(key=lambda x:x[2])
     p = [0]*(V+1)
     for i in range(V+1):
