@@ -15,11 +15,12 @@ for a in range(N):
     elif d == 3:
         firlist = [[0, 0], [0, 1]]
     while g>0:
+        maxy=
         endidx = [firlist[-1][0],firlist[-1][1]]
         nowlen = len(firlist)
         addlist = []
         for b in range(len(firlist)):
-            addlist.append(- [firlist[b][1],-firlist[b][0]])
+            addlist.append( [firlist[b][1],-firlist[b][0]])
         nowend = [addlist[-1][0],addlist[-1][1]]
         willadd = [endidx[0]-nowend[0],nowend[1]-endidx[1]]
         for c in range(len(addlist)):
@@ -30,3 +31,5 @@ for a in range(N):
         g-=1
     print(firlist)
 
+#x=>y idx가 되고
+#y=>전체길이-y가 x idx가 됨

@@ -15,7 +15,7 @@ for a in range(N):
                 else:
                     rlmap[a][b+1+c]=rlmap[a][b+1+c]*10
         elif rlmap[a][b]//10 - rlmap[a][b+1]==1:
-            fixroad = rlmap[a][b]-1
+            fixroad = rlmap[a][b]//10-1
             for c in range(L):
                 if b+1+c>N-1 or rlmap[a][b+1+c] != fixroad :
                     road = False
@@ -37,9 +37,7 @@ for a in range(N):
             road = False
             break
     if road:
-        print(a)
         roadcount+=1
-print(rlmap)
 btmap = copy.deepcopy(maplist)
 for a in range(N):
     road = True
