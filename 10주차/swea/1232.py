@@ -12,7 +12,13 @@ for k in range(10):
             l[int(inputList[p][0])] = int(inputList[p][3])
         else:
             idx[int(inputList[p][0])] =  int(inputList[p][1])
-    while len(idx)>2:
+    for a in range(N,-1,-1):
+        if 
+        
+        
+        
+        
+        
         secNum = idx.pop()
         firNum = idx.pop()
         calIdx = ""
