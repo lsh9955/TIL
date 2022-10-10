@@ -17,7 +17,8 @@ for a in range(19):
                                 if stulist[peoplelist[h][0]][peoplelist[h][1]] == "S":
                                     scount += 1
                             if scount >= 4:
-                                # 4명 이상이라면 bfs 사용하여, 모든 수들이 붙어 있는지 파악
+                                # 4명 이상이라면 각 방향에 1만큼 움직일 때 다른 칸이 있는지를 파악하여
+                                # 모든 수들이 붙어 있는지 파악
                                 dr = [0, 0, 1, -1]
                                 dc = [1, -1, 0, 0]
                                 flag = True
