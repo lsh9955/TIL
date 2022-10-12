@@ -1,6 +1,4 @@
 import copy
-from operator import indexOf
-from traceback import print_tb
 def solution(game_board, table):
     newgame = copy.deepcopy(game_board)
     blocklist = []
