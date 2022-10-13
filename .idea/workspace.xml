@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ad9fde6-d7df-42ab-9177-8d280f17e555" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/14주차/4014_활주로건설.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14주차/5650_핀볼게임.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14주차/2383_점심식사시간.py" beforeDir="false" afterPath="$PROJECT_DIR$/14주차/2383_점심식사시간.py" afterDir="false" />
-    </list>
+    <list default="true" id="9ad9fde6-d7df-42ab-9177-8d280f17e555" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
